@@ -1,4 +1,4 @@
-package Sherlock_Cost;
+package hackerrank.sherlock_cost;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
